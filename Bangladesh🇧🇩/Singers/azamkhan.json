@@ -1,0 +1,68 @@
+{
+  "artist": "Azam Khan",
+  "birth_name": "Mahbubul Haque Khan",
+  "birthdate": "1950-02-28",
+  "birthplace": "Azimpur, Dhaka, Bangladesh",
+  "deathdate": "2011-06-05",
+  "deathplace": "Dhaka, Bangladesh",
+  "genres": ["Pop", "Rock"],
+  "instruments": ["Vocals", "Guitar"],
+  "labels": ["Soundtek", "Sonali CD", "Sounds Sargam", "Sangeeta", "D-Series"],
+  "albums": [
+    {
+      "name": "Uccharon",
+      "release_year": 1972,
+      "tracks": [
+        "Bishal Bangladesh",
+        "Ekbar Bolechhi",
+        "Shadhinota Tumi",
+        "O Amar Desh",
+        "Pahari"
+      ]
+    },
+    {
+      "name": "Azam Khan",
+      "release_year": 1973,
+      "tracks": [
+        "Chirodini Tumi Je Amar",
+        "Shunno Theke Suru",
+        "Ami Bangali",
+        "Baba",
+        "Ekti Bangali"
+      ]
+    },
+    {
+      "name": "Rock Shomrat",
+      "release_year": 1980,
+      "tracks": [
+        "Rock Shomrat",
+        "Shadhinota",
+        "Muktijuddho",
+        "Jibon Jemon",
+        "Bhalobasha"
+      ]
+    },
+    {
+      "name": "Azam Khan-er Gaan",
+      "release_year": 1990,
+      "tracks": [
+        "O Amar Desh",
+        "Shadhinota Tumi",
+        "Bishal Bangladesh",
+        "Pahari",
+        "Chirodini Tumi Je Amar"
+      ]
+    },
+    {
+      "name": "Shadhinota",
+      "release_year": 2000,
+      "tracks": [
+        "Shadhinota",
+        "Muktijuddho",
+        "Jibon Jemon",
+        "Bhalobasha",
+        "Rock Shomrat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "artist": "Andrew Kishore",
+  "albums": [
+    {
+      "name": "Beder Meye Josna",
+      "release_year": 1990,
+      "tracks": [
+        "Beder Meye Josna"
+      ]
+    },
+    {
+      "name": "Premer Somadhi",
+      "release_year": 2021,
+      "tracks": [
+        "Premer Somadhi Bhenge"
+      ]
+    },
+    {
+      "name": "O Amar Udash Mon",
+      "release_year": 2024,
+      "tracks": []
+    },
+    {
+      "name": "Anonde Bondi Dinobondhu",
+      "release_year": 2024,
+      "tracks": []
+    },
+    {
+      "name": "Ei Kopale Shukh Shoilona",
+      "release_year": 2023,
+      "tracks": []
+    },
+    {
+      "name": "Bhalobashar Jonmodin",
+      "release_year": 2023,
+      "tracks": []
+    },
+    {
+      "name": "Jiboner Golpo",
+      "release_year": 2023,
+      "tracks": []
+    },
+    {
+      "name": "Rupoboti Konna",
+      "release_year": 2023,
+      "tracks": []
+    }
+  ]
+}

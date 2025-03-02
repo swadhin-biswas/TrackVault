@@ -1,0 +1,96 @@
+{
+  "artist": "Habib Wahid",
+  "birthdate": "1976-10-15",
+  "birthplace": "Dhaka, Bangladesh",
+  "genres": ["Pop", "EDM", "World Rock", "Folk", "R&B"],
+  "albums": [
+    {
+      "name": "Krishno",
+      "release_year": 2003,
+      "tracks": [
+        "Maya",
+        "Bhalobasha",
+        "Krishno",
+        "Ami Tomar Hote Chai",
+        "Hariye Fela Bhalobasha"
+      ]
+    },
+    {
+      "name": "Moina Go",
+      "release_year": 2005,
+      "tracks": [
+        "Moina Go",
+        "Bhalobasha Aaj Kal",
+        "Shono",
+        "Tumi Hina",
+        "Cholo Na"
+      ]
+    },
+    {
+      "name": "Shono",
+      "release_year": 2006,
+      "tracks": [
+        "Shono",
+        "Bondhur Lagiya",
+        "Matir O Pinjira",
+        "Birohi Purnima",
+        "Jhora Pata"
+      ]
+    },
+    {
+      "name": "Aboseshe",
+      "release_year": 2008,
+      "tracks": [
+        "Aboseshe",
+        "Jochonay",
+        "Maya",
+        "Beporawa Mon",
+        "Golaper Din"
+      ]
+    },
+    {
+      "name": "Shadhin",
+      "release_year": 2012,
+      "tracks": [
+        "Shadhin",
+        "Tumi Hina",
+        "Moner Thikana",
+        "Beni Khuley",
+        "Cholo Na"
+      ]
+    },
+    {
+      "name": "Rong",
+      "release_year": 2012,
+      "tracks": [
+        "Rong",
+        "Jhora Pata",
+        "Dubechi",
+        "Pasha Nei Tumi",
+        "Ichche"
+      ]
+    },
+    {
+      "name": "Obujhpona",
+      "release_year": 2018,
+      "tracks": [
+        "Obujhpona",
+        "Beni Khuley",
+        "Moner Thikana",
+        "Cholo Na",
+        "Golaper Din"
+      ]
+    },
+    {
+      "name": "Alingone",
+      "release_year": 2018,
+      "tracks": [
+        "Alingone",
+        "Tumi Hina",
+        "Mitthe Noy",
+        "Ghum",
+        "Beni Khuley"
+      ]
+    }
+  ]
+}

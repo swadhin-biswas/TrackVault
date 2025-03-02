@@ -1,0 +1,88 @@
+{
+  "artist": "Samina Chowdhury",
+  "birth_name": "Samina Chowdhury",
+  "birthdate": "1966-08-28",
+  "birthplace": "Dhaka, Bangladesh",
+  "genres": ["Modern", "Classical", "Rabindra Sangeet"],
+  "instruments": ["Vocals", "Keyboard", "Harmonium"],
+  "years_active": "1981–present",
+  "albums": [
+    {
+      "name": "Jonmo Theke Jolchi",
+      "release_year": 1981,
+      "tracks": [
+        "Jonmo Theke Jolchi Mago"
+      ]
+    },
+    {
+      "name": "Saat Bhai Champa",
+      "release_year": 1983,
+      "tracks": [
+        "Saat Bhai Champa Jagore"
+      ]
+    },
+    {
+      "name": "Kobita Porar Prohor Eseche",
+      "release_year": 1989,
+      "tracks": [
+        "Kobita Porar Prohor Eseche"
+      ]
+    },
+    {
+      "name": "Ekbar Jodi Keu Bhalobasto",
+      "release_year": 1991,
+      "tracks": [
+        "Ekbar Jodi Keu Bhalobasto"
+      ]
+    },
+    {
+      "name": "Oi Jhinuk Phota Sagorbelay",
+      "release_year": 1993,
+      "tracks": [
+        "Oi Jhinuk Phota Sagorbelay"
+      ]
+    },
+    {
+      "name": "Amar Buker Moddhyekhane",
+      "release_year": 1995,
+      "tracks": [
+        "Amar Buker Moddhyekhane"
+      ]
+    },
+    {
+      "name": "Phool Phote Phool Jhore",
+      "release_year": 1997,
+      "tracks": [
+        "Phool Phote Phool Jhore"
+      ]
+    },
+    {
+      "name": "Ami Anutapta",
+      "release_year": 2000,
+      "tracks": [
+        "Ami Anutapta"
+      ]
+    },
+    {
+      "name": "Amar Majhe Nei",
+      "release_year": 2005,
+      "tracks": [
+        "Amar Majhe Nei"
+      ]
+    },
+    {
+      "name": "Ekta Bondhu Chai",
+      "release_year": 2015,
+      "tracks": [
+        "Ekta Bondhu Chai"
+      ]
+    },
+    {
+      "name": "Noyoner Alo",
+      "release_year": 2018,
+      "tracks": [
+        "Noyoner Alo"
+      ]
+    }
+  ]
+}

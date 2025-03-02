@@ -1,0 +1,37 @@
+{
+  "bandname": "Indalo",
+  "albums": {
+    "Kokhon Kibhabe Ekhane Ke Jane": {
+      "release_year": 2015,
+      "album_cover": "https://example.com/kokhon_kibhabe_ekhane_ke_jane_cover.jpg",
+      "songs": [
+        "Obosheshe",
+        "I.S.D.",
+        "Chhobi",
+        "Hobeki?",
+        "1996",
+        "Miththa",
+        "Nei Proyojon",
+        "Kokhon Kibhabe Ekhane Ke Jane"
+      ]
+    },
+    "Notun Khaame Purono Chithi": {
+      "release_year": 2021,
+      "album_cover": "https://example.com/notun_khaame_purono_chithi_cover.jpg",
+      "songs": [
+        "1996",
+        "Miththa",
+        "Nei Proyojon"
+      ]
+    },
+    "The Platform Live: Indalo (Season 1, Vol. 2)": {
+      "release_year": 2022,
+      "album_cover": "https://example.com/the_platform_live_cover.jpg",
+      "songs": [
+        "I.S.D.",
+        "Obosheshe"
+      ]
+    }
+  },
+  "bandcover": "https://example.com/indalo_band_cover.jpg"
+}

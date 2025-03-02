@@ -1,0 +1,36 @@
+{
+  "bandname": "De-illumination",
+  "albums": {
+    "The Unseen Resonance": {
+      "release_year": 2023,
+      "album_cover": "https://images.genius.com/35f0df4ed21e32b7794607c0995d9cfa.1000x1000x1.jpg",
+      "songs": [
+        "Echoes of the Void",
+        "Silent Descent",
+        "Spectral Whispers",
+        "Abyssal Gaze"
+      ]
+    },
+    "Ephemeral Shadows": {
+      "release_year": 2022,
+      "album_cover": "https://journals.openedition.org/hybrid/docannexe/image/1144/img-2.jpg",
+      "songs": [
+        "Flickering Lights",
+        "Transient Forms",
+        "Veiled Reflections",
+        "Shifting Sands"
+      ]
+    },
+    "The Obsidian Heart": {
+      "release_year": 2021,
+      "album_cover": "https://www.creativefabrica.com/wp-content/uploads/2023/05/17/3D-Obsidian-Heart-With-Volumetric-Light-69841282-1.png",
+      "songs": [
+        "Shattered Silence",
+        "Corrupted Circuits",
+        "Rusted Gears",
+        "Broken Transmission"
+      ]
+    }
+  },
+  "bandcover": "https://pbs.twimg.com/profile_images/3086419061/cd4e77d7e1b23d10028b88a46485abdb_400x400.jpeg"
+}

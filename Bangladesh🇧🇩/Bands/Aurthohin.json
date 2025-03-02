@@ -1,0 +1,66 @@
+{
+  "bandname": "Aurthohin",
+  "bandcover": "placeholder_aurthohin_band_cover.jpg",
+  "albums": {
+    "Trimatrik": {
+      "release_year": 1999,
+      "album_cover": "placeholder_aurthohin_trimatrik_cover.jpg",
+      "songs": [
+        "Aushomapto",
+        "Smritir Ghor",
+        "Keno Emon Hoy",
+        "Bondhu"
+      ]
+    },
+    "Biborton": {
+      "release_year": 2001,
+      "album_cover": "placeholder_aurthohin_biborton_cover.jpg",
+      "songs": [
+        "Biborton",
+        "Ami Sei Manushta",
+        "Nirbashon",
+        "Gutiye Thako"
+      ]
+    },
+    "Notun Diner Michil": {
+      "release_year": 2003,
+      "album_cover": "placeholder_aurthohin_notun_diner_michil_cover.jpg",
+      "songs": [
+        "Notun Diner Michil",
+        "Chithi",
+        "Protikkha",
+        "Aro Ekti Din"
+      ]
+    },
+    "Aushomapto 2": {
+      "release_year": 2008,
+      "album_cover": "placeholder_aurthohin_aushomapto2_cover.jpg",
+      "songs": [
+        "Aushomapto 2",
+        "Guitar E Gaan",
+        "Gutiye Thako 2",
+        "Mrittur Pore"
+      ]
+    },
+    "Cancer Er Nishi Raat": {
+      "release_year": 2013,
+      "album_cover": "placeholder_aurthohin_cancer_er_nishi_raat_cover.jpg",
+      "songs": [
+        "Cancer Er Nishi Raat",
+        "Epitaph",
+        "Shesh Prohor",
+        "Abar Ashibo Fire"
+      ]
+    },
+    "Phoenix Er Diary 1":{
+      "release_year":2017,
+      "album_cover":"placeholder_aurthohin_phoenix_diary1_cover.jpg",
+      "songs":[
+        "Phoenix Er Diary 1",
+        "Bondhu Tor Jonno",
+        "Ami Bolchi",
+        "Golpo"
+      ]
+    }
+  }
+}

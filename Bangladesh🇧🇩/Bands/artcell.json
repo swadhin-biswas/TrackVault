@@ -1,0 +1,47 @@
+{
+  "bandname": "Artcell",
+  "albums": {
+    "Onno Shomoy": {
+      "release_year": 2002,
+      "album_cover": "https://i.scdn.co/image/ab67616d0000b273823c5408f190a5b796bf2219",
+      "songs": [
+        "Onno Shomoy",
+        "Poth Chola",
+        "Dukkho Bilash",
+        "Obosh Onubhutir Deyal",
+        "Rahur Grash",
+        "Odekha Shorgo",
+        "Poth Chola (Acoustic)"
+      ]
+    },
+    "Oniket Prantor": {
+      "release_year": 2006,
+      "album_cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0ItEMxPnNo-GSboDWwXE9M7X1fgqNR2_uw&s",
+      "songs": [
+        "Oniket Prantor",
+        "Aniket Prantor",
+        "Dhushor Shomoy",
+        "Tomake",
+        "Ei Bidaye",
+        "Krittim Manush",
+        "Gontobbohin",
+        "Uru Uru Mon"
+      ]
+    },
+    "Otritiyo": {
+      "release_year": 2023,
+      "album_cover": "https://upload.wikimedia.org/wikipedia/en/f/fc/Otritio.jpg",
+      "songs": [
+        "Otritiyo",
+        "Biprotip",
+        "Oshomapto Shantona",
+        "Smritir Ayna",
+        "Harano Chetona",
+        "Nirbodh",
+        "Nirbachito",
+        "Nirjon Prithibi"
+      ]
+    }
+  },
+  "bandcover": "https://i1.sndcdn.com/artworks-000102367021-b0mm5y-t500x500.jpg"
+}

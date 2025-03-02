@@ -1,0 +1,80 @@
+{
+  "bandname": "Nagar Baul",
+  "albums": {
+    "Station Road": {
+      "release_year": 1987,
+      "album_cover": "https://example.com/station_road_cover.jpg",
+      "songs": [
+        "Ami Tomaderi Lok",
+        "Dukhini Dukkho Korona",
+        "Jodi Balo Haan",
+        "Mone Pore Tomay",
+        "Nai Tumi Nai",
+        "Purnima",
+        "Shukh Pakhi",
+        "Tumi Ki Sei"
+      ]
+    },
+    "Jail Theke Bolchi": {
+      "release_year": 1990,
+      "album_cover": "https://example.com/jail_theke_bolchi_cover.jpg",
+      "songs": [
+        "Ami Jail Theke Bolchi",
+        "Chokher Neshay",
+        "Dukhini Dukkho Korona",
+        "Jodi Balo Haan",
+        "Mone Pore Tomay",
+        "Nai Tumi Nai",
+        "Purnima",
+        "Shukh Pakhi",
+        "Tumi Ki Sei"
+      ]
+    },
+    "Nagar Baul": {
+      "release_year": 1996,
+      "album_cover": "https://example.com/nagar_baul_cover.jpg",
+      "songs": [
+        "Aaj Abar Sei Pothey",
+        "Ami Tomaderi Lok",
+        "Dukhini Dukkho Korona",
+        "Jodi Balo Haan",
+        "Mone Pore Tomay",
+        "Nai Tumi Nai",
+        "Purnima",
+        "Shukh Pakhi",
+        "Tumi Ki Sei"
+      ]
+    },
+    "Lais Fita Lais": {
+      "release_year": 1998,
+      "album_cover": "https://example.com/lais_fita_lais_cover.jpg",
+      "songs": [
+        "Aaj Abar Sei Pothey",
+        "Ami Tomaderi Lok",
+        "Dukhini Dukkho Korona",
+        "Jodi Balo Haan",
+        "Mone Pore Tomay",
+        "Nai Tumi Nai",
+        "Purnima",
+        "Shukh Pakhi",
+        "Tumi Ki Sei"
+      ]
+    },
+    "Collection of Feelings": {
+      "release_year": 1999,
+      "album_cover": "https://example.com/collection_of_feelings_cover.jpg",
+      "songs": [
+        "Aaj Abar Sei Pothey",
+        "Ami Tomaderi Lok",
+        "Dukhini Dukkho Korona",
+        "Jodi Balo Haan",
+        "Mone Pore Tomay",
+        "Nai Tumi Nai",
+        "Purnima",
+        "Shukh Pakhi",
+        "Tumi Ki Sei"
+      ]
+    }
+  },
+  "bandcover": "https://example.com/nagar_baul_band_cover.jpg"
+}

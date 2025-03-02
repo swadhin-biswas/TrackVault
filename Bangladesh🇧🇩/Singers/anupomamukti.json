@@ -1,0 +1,27 @@
+{
+  "artist": "Anupama Mukti",
+  "albums": [
+    {
+      "name": "Jhinuker Mukto",
+      "release_year": "2010",
+      "tracks": [
+        "Jhinuker Mukto"
+      ]
+    },
+    {
+      "name": "Maa",
+      "release_year": "2011",
+      "tracks": []
+    },
+    {
+      "name": "Pasha",
+      "release_year": "2012",
+      "tracks": []
+    },
+    {
+      "name": "Sundari",
+      "release_year": "2013",
+      "tracks": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "bandname": "Love Runs Blind (LRB)",
+  "albums": {
+    "LRB I & II": {
+      "release_year": 1992,
+      "songs": [
+        "ঘুমন্ত শহরে (Ghumonto Shohore)",
+        "মাধবী (Madhabi)",
+        "হকার (Hawker)",
+        "সুখ (Shukh)",
+        "চলো বদলে যাই (Cholo Bodle Jai)",
+        "রুপালি গিটার (Rupali Guitar)"
+      ]
+    },
+    "সুখ (Shukh)": {
+      "release_year": 1993,
+      "songs": [
+        "সুখ (Shukh)",
+        "রুপালি গিটার (Rupali Guitar)",
+        "চলো বদলে যাই (Cholo Bodle Jai)",
+        "শেষ চিঠি (Shesh Chithi)"
+      ]
+    },
+    "তবুও (Tobuo)": {
+      "release_year": 1994,
+      "songs": [
+        "তবুও (Tobuo)",
+        "কিছু কথা (Kichu Kotha)",
+        "স্বপ্ন (Shopno)"
+      ]
+    },
+    "ফেরারী মন (Ferari Mon)": {
+      "release_year": 1996,
+      "songs": [
+        "ফেরারী মন (Ferari Mon)",
+        "মন চাইলে মন পাবে (Mon Chaile Mon Pabe)",
+        "আমার পৃথিবী (Amar Prithibi)"
+      ]
+    },
+    "স্বপ্ন (Shopno)": {
+      "release_year": 1998,
+      "songs": [
+        "স্বপ্ন (Shopno)",
+        "মন (Mon)",
+        "তুমি কি আমার বন্ধু হবে (Tumi Ki Amar Bondhu Hobe)"
+      ]
+    },
+    "ঘুমন্ত শহরে (Ghumonto Shohore)": {
+      "release_year": 2000,
+      "songs": [
+        "ঘুমন্ত শহরে (Ghumonto Shohore)",
+        "মাধবী (Madhabi)",
+        "হকার (Hawker)"
+      ]
+    },
+    "অচেনা জীবন (Ochena Jibon)": {
+      "release_year": 2003,
+      "songs": [
+        "অচেনা জীবন (Ochena Jibon)",
+        "কেউ সুখী নয় (Keu Sukhi Noy)",
+        "তুমি আমার (Tumi Amar)"
+      ]
+    },
+    "মনে আছে নাকি নেই (Mone Ache Naki Nei)": {
+      "release_year": 2005,
+      "songs": [
+        "মনে আছে নাকি নেই (Mone Ache Naki Nei)",
+        "তুমি (Tumi)",
+        "ভুলে গেছি (Bhule Gechi)"
+      ]
+    },
+    "স্পর্শ (Sparsha)": {
+      "release_year": 2008,
+      "songs": [
+        "স্পর্শ (Sparsha)",
+        "তুমি আমার (Tumi Amar)",
+        "কেন (Keno)"
+      ]
+    },
+    "যুদ্ধ (Juddho)": {
+      "release_year": 2012,
+      "songs": [
+        "যুদ্ধ (Juddho)",
+        "স্বাধীনতা (Shadhinota)",
+        "বাংলাদেশ (Bangladesh)"
+      ]
+    }
+  },
+  "bandcover": "https://upload.wikimedia.org/wikipedia/en/9/9a/Love_Runs_Blind_band.jpg"
+}

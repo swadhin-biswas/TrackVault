@@ -1,0 +1,193 @@
+{
+  "artist": "James",
+  "formation_year": 1982,
+  "genres": ["Alternative Rock", "Indie Rock", "Britpop"],
+  "albums": [
+    {
+      "name": "Stutter",
+      "release_year": 1986,
+      "tracks": [
+        "Billy's Shirts",
+        "Black Hole",
+        "Johnny Yen",
+        "Just Hip",
+        "Really Hard",
+        "Scarecrow",
+        "Skullduggery",
+        "So Many Ways",
+        "Summer Song",
+        "Why So Close"
+      ]
+    },
+    {
+      "name": "Strip-mine",
+      "release_year": 1988,
+      "tracks": [
+        "Are You Ready?",
+        "Charlie Dance",
+        "Fairground",
+        "Medieval",
+        "Not There",
+        "Refrain",
+        "Riders",
+        "Stripmining",
+        "Vulture",
+        "What For",
+        "Ya Ho"
+      ]
+    },
+    {
+      "name": "Gold Mother",
+      "release_year": 1990,
+      "tracks": [
+        "Come Home",
+        "Gold Mother",
+        "How Was It For You?",
+        "I Wanna Go Home",
+        "Lose Control",
+        "Sit Down",
+        "What For",
+        "You Can't Tell How Much Suffering (On a Face That's Always Smiling)"
+      ]
+    },
+    {
+      "name": "Seven",
+      "release_year": 1992,
+      "tracks": [
+        "Born of Frustration",
+        "Ring the Bells",
+        "Sound",
+        "Sit Down",
+        "He's a Star",
+        "Next Lover",
+        "Scarecrow",
+        "Don't Wait That Long",
+        "Protect Me",
+        "How Was It For You?"
+      ]
+    },
+    {
+      "name": "Laid",
+      "release_year": 1993,
+      "tracks": [
+        "Laid",
+        "Say Something",
+        "Sometimes",
+        "Knuckle Too Far",
+        "Five-O",
+        "P.S.",
+        "Skindiving",
+        "Scarecrow",
+        "One of the Three",
+        "Don't Wait That Long"
+      ]
+    },
+    {
+      "name": "Whiplash",
+      "release_year": 1997,
+      "tracks": [
+        "I Was a Fool",
+        "Just Like Fred Astaire",
+        "Tomorrow",
+        "We're Going to Miss You",
+        "Pleased to Meet You",
+        "Greenpeace",
+        "Don't Wait That Long",
+        "Protect Me",
+        "How Was It For You?"
+      ]
+    },
+    {
+      "name": "Millionaires",
+      "release_year": 2001,
+      "tracks": [
+        "The Shining",
+        "Destiny Calling",
+        "Senorita",
+        "Love Make a Fool",
+        "The Last Supper",
+        "One of the Three",
+        "The Fray",
+        "Rodeo",
+        "Overtaken",
+        "Millionaires"
+      ]
+    },
+    {
+      "name": "Hey Ma",
+      "release_year": 2008,
+      "tracks": [
+        "Hey Ma",
+        "Waterfall",
+        "Oh My Heart",
+        "Whiteboy",
+        "Upside",
+        "Swallow",
+        "Of Monsters and Heroes and Men",
+        "Bubbles",
+        "The End"
+      ]
+    },
+    {
+      "name": "La Petite Mort",
+      "release_year": 2014,
+      "tracks": [
+        "Moving On",
+        "Curse Curse",
+        "Interrogation",
+        "All I'm Saying",
+        "Quicken the Dead",
+        "Frozen Britain",
+        "She Didn't Say Anything",
+        "Interlude",
+        "Hank"
+      ]
+    },
+    {
+      "name": "Girl at the End of the World",
+      "release_year": 2016,
+      "tracks": [
+        "Bitch",
+        "Move Down South",
+        "Dear John",
+        "Nothing But Love",
+        "To My Surprise",
+        "Waking",
+        "All in My Mind",
+        "Girl at the End of the World"
+      ]
+    },
+    {
+      "name": "Living in Extraordinary Times",
+      "release_year": 2018,
+      "tracks": [
+        "Coming Home (Pt. 2)",
+        "Many Faces",
+        "How Hard the Day",
+        "Hank",
+        "Better Than That",
+        "Heads",
+        "Isabella",
+        "Bitter Virtue",
+        "What Is It Good For",
+        "Just Like Fred Astaire"
+      ]
+    },
+    {
+      "name": "All the Colours of You",
+      "release_year": 2021,
+      "tracks": [
+        "Zero",
+        "All the Colours of You",
+        "Beautiful Beaches",
+        "Recover",
+        "Miss America",
+        "Hawaii",
+        "Isabella",
+        "Bitter Virtue",
+        "Heads",
+        "Just Like Fred Astaire"
+      ]
+    }
+  ]
+}

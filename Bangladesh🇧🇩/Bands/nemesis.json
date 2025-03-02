@@ -1,0 +1,36 @@
+{
+  "bandname": "Nemesis",
+  "bandcover": "placeholder_nemesis_band_cover.jpg",
+  "albums": {
+    "Onneshon": {
+      "release_year": 2005,
+      "album_cover": "placeholder_nemesis_onneshon_cover.jpg",
+      "songs": [
+        "Obocheton",
+        "Bir",
+        "Onneshon",
+        "Kobe"
+      ]
+    },
+    "Tritiyo Jatra": {
+      "release_year": 2011,
+      "album_cover": "placeholder_nemesis_tritiyo_jatra_cover.jpg",
+      "songs": [
+        "Kobe Abar",
+        "Bhubon",
+        "Joyoddhoni",
+        "Aaraley"
+      ]
+    },
+     "Gontobbo":{
+      "release_year":2023,
+      "album_cover":"placeholder_nemesis_gontobbo_cover.jpg",
+      "songs":[
+        "Gontobbo",
+        "Protishruti",
+        "Abar",
+        "Nirbashon"
+      ]
+    }
+  }
+}

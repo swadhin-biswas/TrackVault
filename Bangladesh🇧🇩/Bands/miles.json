@@ -1,0 +1,76 @@
+{
+  "bandname": "Miles",
+  "bandcover": "placeholder_miles_band_cover.jpg",
+  "albums": {
+    "Miles": {
+      "release_year": 1982,
+      "album_cover": "placeholder_miles_miles_1982_cover.jpg",
+      "songs": [
+        "Jadu",
+        "Shopno Bhongo",
+        "Firiye Dao",
+        "Prothom Din"
+      ]
+    },
+    "Aahoban": {
+      "release_year": 1991,
+      "album_cover": "placeholder_miles_aahoban_cover.jpg",
+      "songs": [
+        "Chand Tara Surjo",
+        "Pahari Meye",
+        "She Ke",
+        "Aahoban"
+      ]
+    },
+    "Prottoy": {
+      "release_year": 1996,
+      "album_cover": "placeholder_miles_prottoy_cover.jpg",
+      "songs": [
+        "Jala Jala",
+        "Hridoyheen",
+        "Ochena Shohor",
+        "Prottoy"
+      ]
+    },
+    "Protidhoni": {
+      "release_year": 1998,
+      "album_cover": "placeholder_miles_protidhoni_cover.jpg",
+      "songs": [
+        "Firiye Dao",
+        "Ki Jadu",
+        "She Ke",
+        "Pahari Meye"
+      ]
+    },
+    "Shopno Bhongo": {
+      "release_year": 2000,
+      "album_cover": "placeholder_miles_shopno_bhongo_cover.jpg",
+      "songs": [
+        "Shopno Bhongo",
+        "Oshamajik",
+        "Bondi",
+        "Nishshobdo"
+      ]
+    },
+    "Protichchobi": {
+      "release_year": 2006,
+      "album_cover": "placeholder_miles_protichchobi_cover.jpg",
+      "songs": [
+        "Jatona",
+        "Vulona Amay",
+        "Ami Thaki Tomar Pothe",
+        "Protichchobi"
+      ]
+    },
+    "Abaak Shohor": {
+      "release_year": 2012,
+      "album_cover": "placeholder_miles_abaak_shohor_cover.jpg",
+      "songs": [
+        "Abaak Shohor",
+        "Tumi Chile",
+        "Jani Tumi Ashbe",
+        "Shesh Belay"
+      ]
+    }
+  }
+}

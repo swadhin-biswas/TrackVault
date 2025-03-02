@@ -1,0 +1,86 @@
+{
+  "bandname": "Warfaze",
+  "albums": {
+    "Warfaze": {
+      "release_year": 1991,
+      "album_cover": "https://upload.wikimedia.org/wikipedia/en/d/d8/Warfaze_%28album%29.jpg",
+      "songs": [
+        "Boshe Achhi",
+        "Ekti Chhele",
+        "Bichchhinno Abeg",
+        "Shadhikar"
+      ]
+    },
+    "Obak Bhalobasha": {
+      "release_year": 1994,
+      "album_cover": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2Ff4105add887a64c6a938d113809593bb.711x711x1.jpg",
+      "songs": [
+        "Obak Bhalobasha",
+        "Joto Dure",
+        "Rupkotha",
+        "Nodir Kinaray"
+      ]
+    },
+    "Jibon Dhara": {
+      "release_year": 1997,
+      "album_cover": "",
+      "songs": [
+        "Jibon Dhara",
+        "Mone Pore",
+        "Nishshobdo",
+        "Shomoy"
+      ]
+    },
+    "Oshamajik": {
+      "release_year": 1998,
+      "album_cover": "https://t2.genius.com/unsafe/340x340/https%3A%2F%2Fimages.genius.com%2F14c91bb2ff3a587c5b72d6bf344dd6aa.1000x1000x1.jpg",
+      "songs": [
+        "Oshamajik",
+        "Purnota",
+        "Ekti Chhele",
+        "Bichchhinno Abeg"
+      ]
+    },
+    "Alo": {
+      "release_year": 2001,
+      "album_cover": "https://banglacdcovers.blogspot.com/2018/08/alo-by-warfaze.html",
+      "songs": [
+        "Alo",
+        "Nei Proyojon",
+        "Tomake",
+        "Proshno"
+      ]
+    },
+    "Moharaj": {
+      "release_year": 2003,
+      "album_cover": "https://images.genius.com/16f53ba5b5f38a193a13b1665f45a377.1000x1000x1.jpg",
+      "songs": [
+        "Moharaj",
+        "Omanush",
+        "Protikkha",
+        "Obosheshe"
+      ]
+    },
+    "Pothchola": {
+      "release_year": 2007,
+      "album_cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUQPMoMXSwIJQ7Fu4V48H1OwQxFyqtLyDY7NXE3WUNTUZP_BCqOgXRWMsme_sg8lQNvGWlCgKCcr-uJaKw60ge_fX4TDqysGcruY1c5tcaa5Zs3Np9uhhyR6WRPXVw-WVhY_lJKX7qQRw/s320/Pothchola+%255BArtwork%255D.jpg",
+      "songs": [
+        "Pothchola",
+        "Shadhikar",
+        "Jibondhara",
+        "Bichchhinno Abeg"
+      ]
+    },
+    "Shotto": {
+      "release_year": 2012,
+      "album_cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPNFn8QAsiJGDCFjNU9rYJY887cmNwmGLI_FpGGptxIgXupJs7SLqXVbfCoslMe1BVAERujrT7x_HOyTHEoKo7BQe7W88n8bUVCYwDx925Oc6oWSw9GKjah7O1khsKS5eKgWFnV9Y57KY/s1600/Shotto+%255BArtwork%255D.jpg",
+      "songs": [
+        "Shotto",
+        "Omanush",
+        "Protikkha",
+        "Obosheshe"
+      ]
+    }
+  },
+  "bandcover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Warfaze_2023_Lineup.jpg/294px-Warfaze_2023_Lineup.jpg"
+}
